@@ -1,0 +1,126 @@
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\Asp.Net Entity Framework DB.dll.config
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\Asp.Net Entity Framework DB.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\Asp.Net Entity Framework DB.pdb
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csc.exe
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csc.exe.config
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csc.rsp
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csi.exe
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csi.exe.config
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csi.rsp
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.AppContext.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Console.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Net.Http.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\vbc.exe
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\vbc.exe.config
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\vbc.rsp
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.csproj.AssemblyReference.cache
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.csproj.CopyComplete
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.pdb
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.SqlServer.dll
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.xml
+C:\Users\Serkan Can\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\Asp.Net Entity Framework DB.dll.config
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\Asp.Net Entity Framework DB.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\Asp.Net Entity Framework DB.pdb
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csc.exe
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csc.exe.config
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csc.rsp
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csi.exe
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csi.exe.config
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\csi.rsp
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.AppContext.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Console.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.Compression.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Net.Http.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.ValueTuple.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\vbc.exe
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\vbc.exe.config
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\vbc.rsp
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\VBCSCompiler.exe
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.SqlServer.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.xml
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\EntityFramework.SqlServer.xml
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.csproj.AssemblyReference.cache
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.csproj.CoreCompileInputs.cache
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.csproj.CopyComplete
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.dll
+C:\Users\SerkanCan\source\repos\Asp.Net Entity Framework DB\obj\Debug\Asp.Net Entity Framework DB.pdb

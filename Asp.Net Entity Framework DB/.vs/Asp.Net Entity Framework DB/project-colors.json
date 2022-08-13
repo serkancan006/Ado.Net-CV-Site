@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5304859c-a8fe-44d7-9d2c-946231113b06": {
+      "ProjectGuid": "5304859c-a8fe-44d7-9d2c-946231113b06",
+      "DisplayName": "Asp.Net Entity Framework DB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
